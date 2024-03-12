@@ -1,6 +1,9 @@
 # MacOS system files
 .DS_Store
 
+# Python venv
+cuda/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
